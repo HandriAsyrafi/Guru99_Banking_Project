@@ -1,2 +1,2 @@
 # Guru99_Banking_Project
-Manual Testing
+Manual Testing Project for Banking Web Application
